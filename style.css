@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: #d6d6d6d0;
+}
+
+ul {
+    list-style: none;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+}
+
+body{
+    background: url(./bckg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    text-align: center;
+}
+
+.container .name h1{
+    font-size: 60px;
+    color: #F1E0AC;
+}
+
+.container .name h5{
+    font-size: 25px;
+}
+
+form button {
+    padding: 10px 24px;
+    background-color: #30475E;
+    border-radius: 8px;
+}
