@@ -48,6 +48,7 @@ body{
 .container .name h1{
     font-size: 60px;
     font-weight: 600;
+    padding: 0 20px;
     color: #F1E0AC;
 }
 
@@ -92,7 +93,7 @@ body{
 }
 
 form button {
-    width: 15%;
+    width: 80px;
     padding: 10px;
     background-color: #30475E;
     border-radius: 8px;
