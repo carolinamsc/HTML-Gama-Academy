@@ -20,6 +20,9 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 10px;
+    /*border-bottom: 1px solid #d6d6d6d0;*/
+    box-shadow: 1px 1px 10px 1px #d6d6d6d0;
+    border-bottom: ;
 }
 
 header img{
